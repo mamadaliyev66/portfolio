@@ -1,1 +1,1 @@
-# <a href="takosh1.w3spaces.com">Portfolio</a>
+# <a href="https://takosh1.w3spaces.com" target="_blank">Portfolio</a>
